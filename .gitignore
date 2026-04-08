@@ -1,0 +1,8 @@
+*.msh
+*.su2
+*.cgns
+*.vtk
+*.stl
+__pycache__/
+*.pyc
+.DS_Store
